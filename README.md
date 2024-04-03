@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/F3RL4/onvif-java.svg)](https://jitpack.io/#F3RL4/onvif-java)
+
 # onvif-java-lib
 ONVIF (Open Network Video Interface Forum) is a community to standardize communication between IP-based security products (like cameras).
 
