@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/F3RL4/onvif-java-lib.svg)](https://jitpack.io/#F3RL4/onvif-java-lib)
+
 # onvif-java-lib
 ONVIF (Open Network Video Interface Forum) is a community to standardize communication between IP-based security products (like cameras).
 
@@ -6,5 +8,3 @@ I developed a Java library for the ONVIF spezification. It helps you with the ba
 The project is still in development, so if you need features or know better solutions than mine, let me know.
 
 This project is not officially supported by ONVIF! It has been created in a academic project from Hochschule Trier in Germany. 
-
-[![](https://jitpack.io/v/F3RL4/onvif-java.svg)](https://jitpack.io/#F3RL4/onvif-java)
