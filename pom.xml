@@ -10,7 +10,6 @@
     <name>ONVIF Java Library</name>
 
     <dependencies>
-        <!-- Adicione as dependências necessárias para JAXB e SOAP API -->
         <dependency>
             <groupId>javax.xml.bind</groupId>
             <artifactId>jaxb-api</artifactId>
